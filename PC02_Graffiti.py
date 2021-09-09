@@ -97,7 +97,7 @@ turtle.forward(250)
 turtle.left(45)
 turtle.forward(250)
 turtle.up()
-turtle.bye()
+turtle.Screen().bye()
 
 
 
